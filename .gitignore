@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Environment variables and sensitive data
+.env
+
+# IDE specific settings (like VS Code or PyCharm)
+.vscode/
